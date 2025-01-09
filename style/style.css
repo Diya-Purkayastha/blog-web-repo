@@ -56,3 +56,40 @@ h3{
 img{
     width: 300px;
 }
+/*   
+.section1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    
+
+}
+.text{
+    width: 50%;
+    margin-right: 30px;
+    border: 3px solid orange;
+    border-bottom: none;
+    border-right: none;
+    padding: 20px;
+}
+.txtimg{
+    width: 50%;
+    border: 3px solid orange;
+    border-top: none;
+    border-left: none;
+    padding: 20px;
+    align-items: center;
+}
+
+.textp{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.ptxt{
+    font-size: small;
+    width:45% ;
+}  */
